@@ -1,0 +1,23 @@
+{
+   "ads":{
+     "onsignal_app_id":"503bc974–5aac-4ab5-a953-afa40f7fc2d5",
+      "ShowAds":true,
+      "ShowLoadingAds":true,
+      "ClickCount":1,
+
+      "huawei_inter":"testb4znbuh3n2",
+      "huawei_banner":"testw6vs28auh3",
+      "huawei_native":"testu7m3hc4gvm",
+     
+      "yandex_banner":"demo-banner-yandex",
+      "yandex_inter":"demo-interstitial-yandex",
+      "yandex_native":"demo-native-video-yandex",
+      "yandex_appopen":"demo-appopenad-yandex",
+
+     
+      "PriorityBanner":"yandex",
+      "PriorityNative":"yandex",
+      "priorityInterstitial":"yandex"
+  
+   }
+}
