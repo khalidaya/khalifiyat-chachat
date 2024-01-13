@@ -1,8 +1,8 @@
 {
    "ads":{
-     "onsignal_app_id":"503bc974–5aac-4ab5-a953-afa40f7fc2d5",
-      "ShowAds":true,
-      "ShowLoadingAds":true,
+     "onsignal_app_id":"51a1b15a-6170-48bd-919a-8ef84706a02d",
+      "ShowAds":false,
+      "ShowLoadingAds":false,
       "ClickCount":1,
 
       "huawei_inter":"testb4znbuh3n2",
